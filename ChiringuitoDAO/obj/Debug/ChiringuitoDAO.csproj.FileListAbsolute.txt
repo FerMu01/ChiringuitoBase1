@@ -1,0 +1,9 @@
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\obj\Debug\ChiringuitoDAO.csproj.AssemblyReference.cache
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\obj\Debug\ChiringuitoDAO.csproj.CoreCompileInputs.cache
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\bin\Debug\ChiringuitoDAO.dll
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\bin\Debug\ChiringuitoDAO.pdb
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\obj\Debug\Chiringu.9D0775EE.Up2Date
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\obj\Debug\ChiringuitoDAO.dll
+C:\Users\nanit\source\repos\chiringuito\ChiringuitoDAO\obj\Debug\ChiringuitoDAO.pdb

@@ -1,0 +1,793 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nanit\\source\\repos\\chiringuito\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\regsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\regsucursal.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\baseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\baseimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|c:\\users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\regsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\regsucursal.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\winbranchreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\winbranchreg.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\winbranchreg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\winbranchreg.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\mapaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\mapaddress.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\registrarproveedor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\registrarproveedor.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\helpers\\mapshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\helpers\\mapshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\winmoduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\winmoduser.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\modcategoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\modcategoria.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\sessionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\sessionclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\userimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\userimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\modproveedor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\modproveedor.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\supplierimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\supplierimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\branchimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\branchimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\icategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\isupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\isupplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\academicmanage\\credencial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\academicmanage\\credencial.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\orderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\orderimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\tipoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\tipoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\iuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\ibranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\ibranch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\itipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\itipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitoweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F256D27E-234F-47CD-B5E7-6A40CC89CB85}|ChiringuitoWEB\\ChiringuitoWEB.csproj|solutionrelative:chiringuitoweb\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\academicmanage\\credencial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\academicmanage\\credencial.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\winbranchmod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\winbranchmod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\implementation\\cityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\implementation\\cityimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\icity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\icity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\iorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\interfaces\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\interfaces\\ibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitodao\\model\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}|ChiringuitoDAO\\ChiringuitoDAO.csproj|solutionrelative:chiringuitodao\\model\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\ventanamod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\ventanamod.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|C:\\Users\\nanit\\source\\repos\\chiringuito\\chiringuitowpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85BD2026-BD0A-4E35-9709-553163E013E1}|ChiringuitoWPF\\ChiringuitoWPF.csproj|solutionrelative:chiringuitowpf\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 257,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\BaseImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\BaseImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\BaseImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\BaseImpl.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAkwFgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:33:34.698Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegSucursal.aspx",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegSucursal.aspx",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\RegSucursal.aspx",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegSucursal.aspx",
+              "RelativeToolTip": "ChiringuitoWEB\\RegSucursal.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-15T17:25:39.344Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "winBranchReg.xaml",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchReg.xaml",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\winBranchReg.xaml",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchReg.xaml",
+              "RelativeToolTip": "ChiringuitoWPF\\winBranchReg.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-28T05:17:46.55Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "winBranchReg.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchReg.xaml.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\winBranchReg.xaml.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchReg.xaml.cs",
+              "RelativeToolTip": "ChiringuitoWPF\\winBranchReg.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T11:10:02.632Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegSucursal.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegSucursal.aspx.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\RegSucursal.aspx.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegSucursal.aspx.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\RegSucursal.aspx.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T02:50:13.648Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarProveedor.aspx",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegistrarProveedor.aspx",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\RegistrarProveedor.aspx",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\RegistrarProveedor.aspx",
+              "RelativeToolTip": "ChiringuitoWEB\\RegistrarProveedor.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-16T22:23:38.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MapAddress.cshtml",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\MapAddress.cshtml",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\MapAddress.cshtml",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\MapAddress.cshtml",
+              "RelativeToolTip": "ChiringuitoWEB\\MapAddress.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T22:55:56.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Site.Master.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Site.Master.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\Site.Master.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:38:46.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MapsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Helpers\\MapsHelper.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Helpers\\MapsHelper.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Helpers\\MapsHelper.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\Helpers\\MapsHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T01:35:30.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Site.Master",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Site.Master",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Site.Master",
+              "RelativeToolTip": "ChiringuitoWEB\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-07T02:25:53.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "winModUSer.xaml",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winModUSer.xaml",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\winModUSer.xaml",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winModUSer.xaml",
+              "RelativeToolTip": "ChiringuitoWPF\\winModUSer.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-10T19:07:45.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Login.aspx",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Login.aspx",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Login.aspx",
+              "RelativeToolTip": "ChiringuitoWEB\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T03:09:08.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Login.aspx.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\Login.aspx.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswCEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T04:43:44.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModCategoria.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\ModCategoria.aspx.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\ModCategoria.aspx.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\ModCategoria.aspx.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\ModCategoria.aspx.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAmwIcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:48:28.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SessionClass.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\SessionClass.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\SessionClass.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\SessionClass.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\SessionClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T12:37:40.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\UserImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\UserImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\UserImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\UserImpl.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAGwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T11:45:09.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ModProveedor.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\ModProveedor.aspx.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\ModProveedor.aspx.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\ModProveedor.aspx.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\ModProveedor.aspx.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAcwJkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:34:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICategory.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ICategory.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\ICategory.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ICategory.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\ICategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:20:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\Category.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Category.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\Category.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:11:15.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SupplierImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\SupplierImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\SupplierImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\SupplierImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\SupplierImpl.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAcwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:53:23.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BranchImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\BranchImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\BranchImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\BranchImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\BranchImpl.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAcwIIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:56:13.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Supplier.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\Supplier.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Supplier.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\Supplier.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwCYAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T03:41:39.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ISupplier.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ISupplier.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\ISupplier.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ISupplier.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\ISupplier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:44:47.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Tipoimpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\Tipoimpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\Tipoimpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\Tipoimpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\Tipoimpl.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAiwA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:25:02.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Credencial.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\AcademicManage\\Credencial.xaml.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\AcademicManage\\Credencial.xaml.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\AcademicManage\\Credencial.xaml.cs",
+              "RelativeToolTip": "ChiringuitoWPF\\AcademicManage\\Credencial.xaml.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAF8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:49:29.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\OrderImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\OrderImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\OrderImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\OrderImpl.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAMwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:28:20.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUser.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IUser.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\IUser.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IUser.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\IUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:29:54.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBranch.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IBranch.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\IBranch.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IBranch.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\IBranch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T04:41:30.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ITipo.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ITipo.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\ITipo.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ITipo.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\ITipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:23:40.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Branch.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\Branch.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Branch.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\Branch.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T03:38:17.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\City.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\City.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\City.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:07:57.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\User.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\User.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:23:33.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Default.aspx.cs",
+              "RelativeToolTip": "ChiringuitoWEB\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T00:43:20.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Default.aspx",
+              "RelativeDocumentMoniker": "ChiringuitoWEB\\Default.aspx",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWEB\\Default.aspx",
+              "RelativeToolTip": "ChiringuitoWEB\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-07T02:27:13.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Credencial.xaml",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\AcademicManage\\Credencial.xaml",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\AcademicManage\\Credencial.xaml",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\AcademicManage\\Credencial.xaml",
+              "RelativeToolTip": "ChiringuitoWPF\\AcademicManage\\Credencial.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-09T00:14:07.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\App.xaml",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\App.xaml",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\App.xaml",
+              "RelativeToolTip": "ChiringuitoWPF\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-27T15:35:19.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "winBranchMod.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchMod.xaml.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\winBranchMod.xaml.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\winBranchMod.xaml.cs",
+              "RelativeToolTip": "ChiringuitoWPF\\winBranchMod.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T18:40:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CityImpl.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\CityImpl.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Implementation\\CityImpl.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Implementation\\CityImpl.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Implementation\\CityImpl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:10:47.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\packages.config",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\packages.config",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\packages.config",
+              "RelativeToolTip": "ChiringuitoWPF\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-29T17:53:26.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Order.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T15:27:28.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChiringuitoWPF\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAMwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T02:37:30.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\BaseModel.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\BaseModel.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\BaseModel.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\BaseModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwBMAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:38:30.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Tipo.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Model\\Tipo.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Model\\Tipo.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Model\\Tipo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:22:28.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ventanaMod.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\ventanaMod.xaml.cs",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\ventanaMod.xaml.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\ventanaMod.xaml.cs",
+              "RelativeToolTip": "ChiringuitoWPF\\ventanaMod.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T17:16:47.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\App.config",
+              "RelativeDocumentMoniker": "ChiringuitoWPF\\App.config",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoWPF\\App.config",
+              "RelativeToolTip": "ChiringuitoWPF\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-22T01:57:22.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ICity.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ICity.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\ICity.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\ICity.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\ICity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T10:09:28.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "IOrder.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IOrder.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\IOrder.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IOrder.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\IOrder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:13:43.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IBase.cs",
+              "DocumentMoniker": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IBase.cs",
+              "RelativeDocumentMoniker": "ChiringuitoDAO\\Interfaces\\IBase.cs",
+              "ToolTip": "C:\\Users\\nanit\\source\\repos\\chiringuito\\ChiringuitoDAO\\Interfaces\\IBase.cs",
+              "RelativeToolTip": "ChiringuitoDAO\\Interfaces\\IBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:22:04.792Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

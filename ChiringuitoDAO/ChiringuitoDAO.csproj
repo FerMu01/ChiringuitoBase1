@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5F4C2862-DF77-4D62-93B1-A9DE236FFBA5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChiringuitoDAO</RootNamespace>
+    <AssemblyName>ChiringuitoDAO</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Maps.MapControl.WPF, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Maps.MapControl.WPF.1.0.0.3\lib\net40-Client\Microsoft.Maps.MapControl.WPF.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Implementation\BaseImpl.cs" />
+    <Compile Include="Implementation\BranchImpl.cs" />
+    <Compile Include="Implementation\CategoryImpl.cs" />
+    <Compile Include="Implementation\CityImpl.cs" />
+    <Compile Include="Implementation\OrderImpl.cs" />
+    <Compile Include="Implementation\SupplierImpl.cs" />
+    <Compile Include="Implementation\Tipoimpl.cs" />
+    <Compile Include="Implementation\UserImpl.cs" />
+    <Compile Include="Interfaces\IBase.cs" />
+    <Compile Include="Interfaces\IBranch.cs" />
+    <Compile Include="Interfaces\ICategory.cs" />
+    <Compile Include="Interfaces\ICity.cs" />
+    <Compile Include="Interfaces\IOrder.cs" />
+    <Compile Include="Interfaces\ISupplier.cs" />
+    <Compile Include="Interfaces\ITipo.cs" />
+    <Compile Include="Interfaces\IUser.cs" />
+    <Compile Include="Model\BaseModel.cs" />
+    <Compile Include="Model\Branch.cs" />
+    <Compile Include="Model\Category.cs" />
+    <Compile Include="Model\City.cs" />
+    <Compile Include="Model\Order.cs" />
+    <Compile Include="Model\SessionClass.cs" />
+    <Compile Include="Model\Supplier.cs" />
+    <Compile Include="Model\Tipo.cs" />
+    <Compile Include="Model\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

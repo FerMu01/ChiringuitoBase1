@@ -1,0 +1,102 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="ChiringuitoWEB.Site" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Chiringuito</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('imagenes/pantalla.png'); /* Reemplaza con la ruta correcta */
+            background-size: cover;
+            background-position: center;
+        }
+        .container {
+            position: relative;
+            width: 100vw;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .header {
+            display: flex;
+            justify-content: center;
+            width: 100%;
+            padding: 20px;
+            background-color: rgba(255, 33, 82, 0.5);
+            position: absolute;
+            top: 0;
+        }
+        .header .header-icon {
+            width: 40px;
+            height: 40px;
+            margin: 0 10px;
+            cursor: pointer;
+        }
+        .main {
+            flex-grow: 1;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            padding: 0 20px;
+        }
+        .button-container, .right-buttons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .register-button, .category-button {
+            width: 230px;
+            height: 250px;
+            border-radius: 10px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+            color: white;
+            font-size: 20px;
+            font-weight: bold;
+            margin: 30px;
+        }
+        .register-button {
+            background: linear-gradient(135deg, #6b86d4, #4f3c74);
+        }
+        .category-button {
+            background: linear-gradient(135deg, #ff7e5f, #feb47b); /* Nueva combinación de degradado */
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container">
+            <div class="header">
+                <asp:ImageButton ID="imgHome" runat="server" ImageUrl="imagenes/img_home.png" CssClass="header-icon" OnClick="imgHome_Click" />
+                <asp:ImageButton ID="imgUsers" runat="server" ImageUrl="imagenes/img_settings.png" CssClass="header-icon" OnClick="imgUsers_Click" />
+                <asp:ImageButton ID="imgShop" runat="server" ImageUrl="imagenes/sucursal icono.png" CssClass="header-icon" OnClick="imgShop_Click" />
+                <img src="imagenes/img_user.png" alt="Profile" class="header-icon"> <!-- Reemplaza con la ruta correcta -->
+            </div>
+            <div class="main">
+                <div class="button-container">
+                    <asp:Button ID="btnRegistrarProveedor" Visible="false" runat="server" CssClass="register-button" Text="Registrar Proveedor" OnClick="btnRegistrarProveedor_Click" />
+                    <asp:Button ID="btnModificarProveedor" Visible="false" runat="server" CssClass="register-button" Text="Modificar Proveedor" OnClick="btnModificarProveedor_Click" />
+                </div>
+                <div class="right-buttons">
+                    <asp:Button ID="btnRegistrarCategoria" Visible="false" runat="server" CssClass="category-button" Text="Registrar Categoría" OnClick="btnRegistrarCategoria_Click" />
+                    <asp:Button ID="btnModificarCategoria" Visible="false" runat="server" CssClass="category-button" Text="Modificar Categoría" OnClick="btnModificarCategoria_Click" />
+                </div>
+            </div>
+        </div>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

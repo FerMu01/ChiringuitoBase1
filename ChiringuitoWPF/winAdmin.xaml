@@ -1,0 +1,68 @@
+﻿<Window x:Class="ChiringuitoWPF.AcademicManage.winAdmin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ChiringuitoWPF.AcademicManage"
+        mc:Ignorable="d"
+         xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+ TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+ TextElement.FontWeight="Regular"
+ TextElement.FontSize="13"
+ TextOptions.TextFormattingMode="Ideal"
+ TextOptions.TextRenderingMode="Auto"
+ Background="{DynamicResource MaterialDesignPaper}"
+ FontFamily="{DynamicResource MaterialDesignFont}"
+        Title="winAdmin" Height="450" Width="900" WindowStyle="ToolWindow" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="-6,0,0,0" Stroke="Black" VerticalAlignment="Center" Width="906" Fill="White" RadiusX="48.256" RadiusY="48.256"/>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="386,0,0,0" VerticalAlignment="Center" Width="61" Fill="#FF79100D" RadiusX="0" RadiusY="0"/>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="-6,0,0,0" VerticalAlignment="Center" Width="453" RadiusX="48.256" RadiusY="48.256">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/AcademicManage/interfaz.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="447,0,0,0" VerticalAlignment="Center" Width="78" Fill="#FFFF3535" RadiusX="0" RadiusY="0"/>
+        <Rectangle HorizontalAlignment="Left" Height="434" Margin="447,0,0,0" VerticalAlignment="Center" Width="453" RadiusX="48.256" RadiusY="48.256">
+            <Rectangle.Fill>
+                <ImageBrush ImageSource="/AcademicManage/interfaz 2.png"/>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="7" Margin="517,166,0,0" VerticalAlignment="Top" Width="316">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFFF0D07" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Rectangle HorizontalAlignment="Left" Height="7" Margin="517,251,0,0" VerticalAlignment="Top" Width="316">
+            <Rectangle.Fill>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFFF0D07" Offset="1"/>
+                </LinearGradientBrush>
+            </Rectangle.Fill>
+        </Rectangle>
+        <Button x:Name="btnIngresar" Content="Ingresar" Height="36" Margin="723,335,0,0" VerticalAlignment="Top" Background="#FF01C4DA" FontFamily="Impact" FontSize="19" HorizontalAlignment="Left" FontWeight="Thin" Click="btnIngresar_Click"/>
+        <Button x:Name="btnVolver" Content="Salir" Height="36" Margin="530,335,0,0" VerticalAlignment="Top" Background="#FF01C4DA" FontFamily="Impact" FontSize="19" HorizontalAlignment="Left" FontWeight="UltraLight" Click="btnVolver_Click"/>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" VerticalAlignment="Center" Height="40" Width="313" Margin="450,-130,0,0">
+            <materialDesign:PackIcon Kind="User" 
+                             Foreground="White" VerticalAlignment="Center" Margin="0,20,10,0" HorizontalAlignment="Center" Width="22" Height="22">
+            </materialDesign:PackIcon>
+            <TextBox x:Name="textUsername" Foreground="White"
+             Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+             materialDesign:HintAssist.Hint="Nombre De Usuario" Width="280" Height="50" Margin="0,0,10,0" SelectionOpacity="1" FontWeight="Bold" FontSize="18" FontFamily="Arial" />
+        </StackPanel>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" VerticalAlignment="Center" Height="40" Width="313" Margin="450,40,0,0">
+            <materialDesign:PackIcon Kind="Password" 
+             Foreground="White" VerticalAlignment="Center" Margin="0,15,10,0" HorizontalAlignment="Center" Width="22" Height="20">
+            </materialDesign:PackIcon>
+            <PasswordBox x:Name="textPassword" Foreground="White"
+                         
+             Width="280" Height="40" Margin="0,15,10,0"
+             materialDesign:HintAssist.Hint="Ingresa Tu Contraseña" FontSize="18" FontFamily="Arial" FontWeight="Bold"/>
+        </StackPanel>
+
+    </Grid>
+</Window>
